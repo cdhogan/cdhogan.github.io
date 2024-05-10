@@ -1,2 +1,0 @@
-# HELLO TXT
-## hello
